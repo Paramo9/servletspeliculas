@@ -1,0 +1,4 @@
+<usuarios xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="usuarios.xsd">
+    <usuario email="trollol.lapr@gmail.com" nombre="Antonio" password="Paramo82025840&" nivel="Administrador" />
+    <usuario email="diegogaliciaparamo@gmail.com" nombre="Diego" password="82025840" nivel="Usuario" />
+</usuarios>
